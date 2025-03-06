@@ -1,6 +1,6 @@
 import "react-toastify/dist/ReactToastify.css";
-import EmailVerify from "./pages/EmailVerify";
-import Home from "./pages/Home";
+import EmailVerify from "./Pages/EmailVerify";
+import Home from "./Pages/Home";
 import Login from "./Pages/Login";
 import React from "react";
 import ResetPassword from "./Pages/ResetPassword";
